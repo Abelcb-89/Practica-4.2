@@ -1,0 +1,16 @@
+*{background-color: coral;}
+
+
+p.texto{color: darkblue;
+font-size: 20px;}
+
+.foto01 {
+    text-align: center;
+    width: 40%;
+}
+
+p.texto2{
+    font-size: 20px;
+    color: darkblue;
+    
+}

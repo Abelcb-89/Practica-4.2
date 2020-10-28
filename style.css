@@ -1,0 +1,15 @@
+*{background-color: burlywood;
+text-align: center;
+font-size: 40px;
+color: firebrick;}
+
+.foto01{
+    text-align: left;
+}
+.foto02{
+    text-align: center;
+}
+
+.foto03{
+    text-align: right;
+}
